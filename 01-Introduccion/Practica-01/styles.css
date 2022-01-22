@@ -1,0 +1,23 @@
+
+
+body{
+    background-color: black;
+    text-align: center;
+ }
+
+
+.titulo_1{
+    color:#76c9e4; 
+    font-family: 'Sacramento';
+    font-size: 7rem;
+
+}
+
+.titulo_2{
+    color: #70e68b;
+    font-family: 'Rokkitt';
+    font-size: 5rem;
+}
+
+
+
